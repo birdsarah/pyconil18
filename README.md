@@ -13,6 +13,9 @@ The core of this talk is a series of notebooks. These can be viewed here:
 * [Overscripted analysis](https://nbviewer.jupyter.org/github/birdsarah/pyconil18/blob/master/notebooks/overscripted-canvas-fingerprinting.ipynb)
 * [Slides](https://github.com/birdsarah/pyconil18/blob/master/slides.md)
 
+The video of the talk should be out in July sometime. I will post the link here
+when it is available.
+
 
 ### Run locally
 
