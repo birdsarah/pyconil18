@@ -16,7 +16,7 @@ Slides and notebooks from PyCon Israel 2018 KeyNote.
 
 Notes:
 
- * You will need to specify their own firefox profile directory.
+ * You will need to specify your own firefox profile directory.
  * Only one of the analyses mentioned for the
    [OverScripted](https://github.com/mozilla/Overscripted-Data-Analysis-Challenge)
    data set is given.  You are encouraged to download and play with the
